@@ -138,7 +138,7 @@ Runs on any standard console (Windows, macOS, Linux)
 📂 Project Structure
 Cineplex_Ticketing_Management/
 │
-├── cineplex_ticketing.py     # Main Python source code
+├── cineplex.py     # Main Python source code
 ├── README.md                 # Project documentation
 
 🔐 Data Protection
